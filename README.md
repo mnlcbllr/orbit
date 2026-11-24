@@ -68,3 +68,9 @@ npm run tauri build
 - Database: `sqlite:orbit.db` in Orbit's app-data directory
 - Export: full JSON snapshot
 - Backup: raw copy of the SQLite file
+
+## Project links
+
+- [Orbit project overview](https://manuelcaballero.dev/projects/orbit)
+- [Manuel Caballero — Full-Stack AI Engineer](https://manuelcaballero.dev)
+
